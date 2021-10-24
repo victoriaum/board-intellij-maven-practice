@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c436258-0b53-479b-a9a6-88deffabe3e8" name="Default Changelist" comment="index.jsp update" />
+    <list default="true" id="7c436258-0b53-479b-a9a6-88deffabe3e8" name="Default Changelist" comment="기본 세팅" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,21 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\ilpyo\AppData\Roaming\Subversion</configuration>
@@ -49,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634985757460</updated>
       <workItem from="1634985759128" duration="3620000" />
-      <workItem from="1635083136846" duration="2485000" />
+      <workItem from="1635083136846" duration="2876000" />
     </task>
     <task id="LOCAL-00001" summary="maven 기본 세팅">
       <created>1634988954690</created>
@@ -65,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634989728734</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="기본 세팅">
+      <created>1635087185937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635087185937</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maven 기본 세팅" />
     <MESSAGE value="index.jsp update" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.jsp update" />
+    <MESSAGE value="기본 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="기본 세팅" />
   </component>
 </project>
